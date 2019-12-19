@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dhamma Law, the law firm that does the right thing.
 
 You can use the [editor on GitHub](https://github.com/Dhamma-Law/dhamma-law/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
